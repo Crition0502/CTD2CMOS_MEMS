@@ -2,6 +2,10 @@
 ## A circuit and layout
 CTD control CMOS circuit and SPICE model
 
+details written in report
+
+below is the hole-layout
+
 ![ ](CTD2.png)
 
 and with PADs
