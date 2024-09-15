@@ -12,4 +12,4 @@ and with PADs
 
 ![ ](powerMOSFET.png)
 
-
+pass through 10mA enough
