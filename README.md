@@ -5,6 +5,6 @@ CTD control CMOS circuit and SPICE model
 
 and with PADs
 
-![ ](CTD3.png)
+![ ](CTD4_PADFIX.png)
 
 
